@@ -113,7 +113,7 @@ installation up to date.
 For a CLI installed with `npm install --global` or `bun add --global`:
 
 ```bash
-rea update
+npx rea update
 ```
 
 Bun global updates require Bun 1.2.17 or later. With an older Bun release,
